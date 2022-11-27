@@ -1,6 +1,6 @@
 # Module 13: Object-Relational Mapping (ORM) - E-commerce Back End
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Description
 
@@ -30,7 +30,7 @@ To run your own version of the app do the following:
 
 ## License
 
-MIT License
+ISC License
 
 ## Tests
 
